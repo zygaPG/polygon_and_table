@@ -1,0 +1,1 @@
+ C:\\Users\\zygaPG\\github_repositories\\polgon_and_table\\.dart_tool\\flutter_build\\1ecea8fb1c903fedf31393dae0df9f1c\\native_assets.yaml: 
