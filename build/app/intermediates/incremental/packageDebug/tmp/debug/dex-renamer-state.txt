@@ -1,4 +1,4 @@
-#Mon Dec 23 17:46:42 CET 2024
+#Mon Dec 23 23:21:53 CET 2024
 base.0=C\:\\Users\\zygaPG\\github_repositories\\polgon_and_table\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\zygaPG\\github_repositories\\polgon_and_table\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\zygaPG\\github_repositories\\polgon_and_table\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
