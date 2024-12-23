@@ -1,9 +1,27 @@
 -- Merging decision tree log ---
 application
-INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:2:5-33:19
+INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:5:5-36:19
 INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml
+MERGED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\810da246ace89bb704ea311999d645f6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\810da246ace89bb704ea311999d645f6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
 MERGED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:19:5-31:19
+MERGED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:19:5-31:19
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:11:5-36:19
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:11:5-36:19
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\013de9c0dd42b428fbad6ce3088c74c8\transformed\jetified-play-services-cronet-18.1.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\013de9c0dd42b428fbad6ce3088c74c8\transformed\jetified-play-services-cronet-18.1.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\b9f130d2496b4b3a80259560b7d99b23\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\b9f130d2496b4b3a80259560b7d99b23\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
@@ -21,36 +39,76 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zy
 	android:name
 		INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:1:1-45:12
-MERGED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:1:1-45:12
+ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:1:1-48:12
 INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\zygaPG\.gradle\caches\transforms-3\a49cd171355a6a39687e69f028c8bcbc\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [:mapbox_maps_flutter] C:\Users\zygaPG\github_repositories\polgon_and_table\build\mapbox_maps_flutter\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\zygaPG\github_repositories\polgon_and_table\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.mapbox.maps:android:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\a979d0c344afdc53cd1863e24f1c4292\transformed\jetified-android-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\810da246ace89bb704ea311999d645f6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bf78d940cc78ca45c77421e3af64376e\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [com.mapbox.plugin:maps-viewport:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\01f033f9d9589c386ce3f227adca67f2\transformed\jetified-maps-viewport-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-locationcomponent:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\8cd686fcfc45784344c265d7fb771d8b\transformed\jetified-maps-locationcomponent-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-annotation:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9b38ec4c16fb0f956f6ce31dd8c85fb1\transformed\jetified-maps-annotation-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.extension:maps-localization:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0d4ca615728584e181db0d2db20ec566\transformed\jetified-maps-localization-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.extension:maps-style:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3bcd8230f168fb69f016ef736e084c46\transformed\jetified-maps-style-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-logo:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\13c666b995a846bcd9361faaf2fe05a8\transformed\jetified-maps-logo-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-compass:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9486d3daa5192211cb820ac930a9c20c\transformed\jetified-maps-compass-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-gestures:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6501bea31025c2533b2552abbf317d46\transformed\jetified-maps-gestures-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-attribution:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3d6884bdf9863c60920c4aff0ddbf4f0\transformed\jetified-maps-attribution-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-scalebar:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d60c77a229a6c10da381ead9cca04168\transformed\jetified-maps-scalebar-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-overlay:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\505c61ef91fef98360e6f859c340e4ff\transformed\jetified-maps-overlay-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\zygaPG\.gradle\caches\transforms-3\fd7d6b048f12dc26953778cf64b6b922\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\zygaPG\.gradle\caches\transforms-3\8b51bb040b32a2abc8f296afdae29f34\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.plugin:maps-animation:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\560b04eccbaada3220efdd23b1b7d479\transformed\jetified-maps-animation-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.plugin:maps-lifecycle:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d6bf33c3016f3419d4f8709a8982bef0\transformed\jetified-maps-lifecycle-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.module:maps-telemetry:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\2f248bfbf6bcecd20c3dc36f211c881f\transformed\jetified-maps-telemetry-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.maps:base:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\ff852f7d7505a73284a15371ccb37bb5\transformed\jetified-base-11.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:2:1-33:12
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\013de9c0dd42b428fbad6ce3088c74c8\transformed\jetified-play-services-cronet-18.1.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\b9f130d2496b4b3a80259560b7d99b23\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\zygaPG\.gradle\caches\transforms-3\a49cd171355a6a39687e69f028c8bcbc\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity:1.8.1] C:\Users\zygaPG\.gradle\caches\transforms-3\3e4063b07db37bd08626b21245b0f82d\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\2b9c9404689a5c622c078d5da9ff626f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\878dadbdc8c0f130b446b0870752f824\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\4befdc7f9fed1e5c6647eae72672d219\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9c28b5c7a2d23237247570dbf8382af1\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\52dfd6d7c21c1e36dbdf0d304093d642\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9ec76326f098fb11057ae8a1fda52a48\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fc510e06b3828af7121634ed81a0fa63\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\ca2eed4266fd24517e583e6618aa3924\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\58accd456bc756075136cc5a7dae18d3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\878dadbdc8c0f130b446b0870752f824\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.8.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb9e1f3eb5835208c6cdd2d493eda511\transformed\jetified-mapbox-android-gestures-0.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\99d579add3f9fd6fe77868a192125a71\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\b05fcf0f6b0fc21fffed2cda2fb6f215\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\86808e134507e15e9d79206184913f8b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d8209ac831e6b22e460fd260ebb7d1bf\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\75799f7dc1e6a4997cf50d7388f1985b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\c8996eb6ce8efabee1883fe1486006c9\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\zygaPG\.gradle\caches\transforms-3\010887bb3359843376c02ecf4bf2ef43\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6707c561045b071954f9f1d8398a2530\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.common:logger:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fdccb0087073823438e09676baa89a33\transformed\jetified-logger-0.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.common:loader:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\44390ae06fdd461096f816ca95140c52\transformed\jetified-loader-0.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.base:common:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\345151cf47dc4dbde42bf7edf3f74f5e\transformed\jetified-common-0.11.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\53f114d110e356c36b5f50ab357f361f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fee79d0d8ef3af5dbc14ef6d22d028cf\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\08235bf0a8760a790ea7b8b4eab82236\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\ee01e2b20f52029a052c42ac95f9e8b2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\de4e1f54747892e0930cd2e3ecf5513e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\ee01e2b20f52029a052c42ac95f9e8b2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\08235bf0a8760a790ea7b8b4eab82236\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\a2bd407c8cd5bfb977ceded389a17806\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6dde453803d512b3f23cc981e264e9e0\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6707c561045b071954f9f1d8398a2530\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [org.chromium.net:cronet-api:119.6045.31] C:\Users\zygaPG\.gradle\caches\transforms-3\2f750e22eb21237dc048c67624f2d545\transformed\jetified-cronet-api-119.6045.31\AndroidManifest.xml:15:2-22:13
 	package
 		INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml
 	android:versionName
@@ -59,38 +117,110 @@ MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\zygaPG\.gradle
 		INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:1:11-69
-queries
-ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:39:5-44:15
-intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:40:9-43:18
-action#android.intent.action.PROCESS_TEXT
-ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:41:13-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:2:5-79
 	android:name
-		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:41:21-70
+		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:2:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:3:5-81
+	android:name
+		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:3:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:4:5-85
+	android:name
+		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:4:22-82
+queries
+ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:42:5-47:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:43:9-46:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:44:13-72
+	android:name
+		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:44:21-70
 data
-ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:42:13-50
+ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:45:13-50
 	android:mimeType
-		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:42:19-48
+		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:45:19-48
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:8:5-67
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:8:5-67
+MERGED from [org.chromium.net:cronet-api:119.6045.31] C:\Users\zygaPG\.gradle\caches\transforms-3\2f750e22eb21237dc048c67624f2d545\transformed\jetified-cronet-api-119.6045.31\AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-api:119.6045.31] C:\Users\zygaPG\.gradle\caches\transforms-3\2f750e22eb21237dc048c67624f2d545\transformed\jetified-cronet-api-119.6045.31\AndroidManifest.xml:19:6-67
 	android:name
 		ADDED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml:6:22-64
 uses-sdk
 INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml
 INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml
-MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\zygaPG\.gradle\caches\transforms-3\a49cd171355a6a39687e69f028c8bcbc\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\zygaPG\.gradle\caches\transforms-3\a49cd171355a6a39687e69f028c8bcbc\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [:mapbox_maps_flutter] C:\Users\zygaPG\github_repositories\polgon_and_table\build\mapbox_maps_flutter\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:mapbox_maps_flutter] C:\Users\zygaPG\github_repositories\polgon_and_table\build\mapbox_maps_flutter\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\zygaPG\github_repositories\polgon_and_table\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\zygaPG\github_repositories\polgon_and_table\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.maps:android:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\a979d0c344afdc53cd1863e24f1c4292\transformed\jetified-android-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.maps:android:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\a979d0c344afdc53cd1863e24f1c4292\transformed\jetified-android-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\810da246ace89bb704ea311999d645f6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\810da246ace89bb704ea311999d645f6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.window:window-java:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bf78d940cc78ca45c77421e3af64376e\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
 MERGED from [androidx.window:window-java:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bf78d940cc78ca45c77421e3af64376e\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [com.mapbox.plugin:maps-viewport:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\01f033f9d9589c386ce3f227adca67f2\transformed\jetified-maps-viewport-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-viewport:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\01f033f9d9589c386ce3f227adca67f2\transformed\jetified-maps-viewport-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-locationcomponent:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\8cd686fcfc45784344c265d7fb771d8b\transformed\jetified-maps-locationcomponent-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-locationcomponent:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\8cd686fcfc45784344c265d7fb771d8b\transformed\jetified-maps-locationcomponent-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-annotation:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9b38ec4c16fb0f956f6ce31dd8c85fb1\transformed\jetified-maps-annotation-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-annotation:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9b38ec4c16fb0f956f6ce31dd8c85fb1\transformed\jetified-maps-annotation-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.extension:maps-localization:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0d4ca615728584e181db0d2db20ec566\transformed\jetified-maps-localization-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.extension:maps-localization:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0d4ca615728584e181db0d2db20ec566\transformed\jetified-maps-localization-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.extension:maps-style:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3bcd8230f168fb69f016ef736e084c46\transformed\jetified-maps-style-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.extension:maps-style:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3bcd8230f168fb69f016ef736e084c46\transformed\jetified-maps-style-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-logo:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\13c666b995a846bcd9361faaf2fe05a8\transformed\jetified-maps-logo-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-logo:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\13c666b995a846bcd9361faaf2fe05a8\transformed\jetified-maps-logo-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-compass:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9486d3daa5192211cb820ac930a9c20c\transformed\jetified-maps-compass-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-compass:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9486d3daa5192211cb820ac930a9c20c\transformed\jetified-maps-compass-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-gestures:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6501bea31025c2533b2552abbf317d46\transformed\jetified-maps-gestures-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-gestures:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6501bea31025c2533b2552abbf317d46\transformed\jetified-maps-gestures-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-attribution:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3d6884bdf9863c60920c4aff0ddbf4f0\transformed\jetified-maps-attribution-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-attribution:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3d6884bdf9863c60920c4aff0ddbf4f0\transformed\jetified-maps-attribution-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-scalebar:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d60c77a229a6c10da381ead9cca04168\transformed\jetified-maps-scalebar-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-scalebar:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d60c77a229a6c10da381ead9cca04168\transformed\jetified-maps-scalebar-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-overlay:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\505c61ef91fef98360e6f859c340e4ff\transformed\jetified-maps-overlay-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-overlay:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\505c61ef91fef98360e6f859c340e4ff\transformed\jetified-maps-overlay-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\zygaPG\.gradle\caches\transforms-3\fd7d6b048f12dc26953778cf64b6b922\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\zygaPG\.gradle\caches\transforms-3\fd7d6b048f12dc26953778cf64b6b922\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\zygaPG\.gradle\caches\transforms-3\8b51bb040b32a2abc8f296afdae29f34\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\zygaPG\.gradle\caches\transforms-3\8b51bb040b32a2abc8f296afdae29f34\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.plugin:maps-animation:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\560b04eccbaada3220efdd23b1b7d479\transformed\jetified-maps-animation-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-animation:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\560b04eccbaada3220efdd23b1b7d479\transformed\jetified-maps-animation-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-lifecycle:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d6bf33c3016f3419d4f8709a8982bef0\transformed\jetified-maps-lifecycle-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.plugin:maps-lifecycle:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d6bf33c3016f3419d4f8709a8982bef0\transformed\jetified-maps-lifecycle-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.module:maps-telemetry:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\2f248bfbf6bcecd20c3dc36f211c881f\transformed\jetified-maps-telemetry-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.module:maps-telemetry:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\2f248bfbf6bcecd20c3dc36f211c881f\transformed\jetified-maps-telemetry-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.maps:base:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\ff852f7d7505a73284a15371ccb37bb5\transformed\jetified-base-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.maps:base:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\ff852f7d7505a73284a15371ccb37bb5\transformed\jetified-base-11.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:6:5-44
+MERGED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:6:5-44
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:6:5-44
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\013de9c0dd42b428fbad6ce3088c74c8\transformed\jetified-play-services-cronet-18.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\013de9c0dd42b428fbad6ce3088c74c8\transformed\jetified-play-services-cronet-18.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\b9f130d2496b4b3a80259560b7d99b23\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\b9f130d2496b4b3a80259560b7d99b23\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\zygaPG\.gradle\caches\transforms-3\a49cd171355a6a39687e69f028c8bcbc\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\zygaPG\.gradle\caches\transforms-3\a49cd171355a6a39687e69f028c8bcbc\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity:1.8.1] C:\Users\zygaPG\.gradle\caches\transforms-3\3e4063b07db37bd08626b21245b0f82d\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.8.1] C:\Users\zygaPG\.gradle\caches\transforms-3\3e4063b07db37bd08626b21245b0f82d\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\2b9c9404689a5c622c078d5da9ff626f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\2b9c9404689a5c622c078d5da9ff626f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\878dadbdc8c0f130b446b0870752f824\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\878dadbdc8c0f130b446b0870752f824\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\4befdc7f9fed1e5c6647eae72672d219\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\4befdc7f9fed1e5c6647eae72672d219\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9c28b5c7a2d23237247570dbf8382af1\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
@@ -99,12 +229,28 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\zygaPG\.grad
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\52dfd6d7c21c1e36dbdf0d304093d642\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9ec76326f098fb11057ae8a1fda52a48\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\9ec76326f098fb11057ae8a1fda52a48\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fc510e06b3828af7121634ed81a0fa63\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fc510e06b3828af7121634ed81a0fa63\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\ca2eed4266fd24517e583e6618aa3924\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\ca2eed4266fd24517e583e6618aa3924\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\58accd456bc756075136cc5a7dae18d3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\58accd456bc756075136cc5a7dae18d3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\878dadbdc8c0f130b446b0870752f824\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\878dadbdc8c0f130b446b0870752f824\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.8.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb9e1f3eb5835208c6cdd2d493eda511\transformed\jetified-mapbox-android-gestures-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.8.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb9e1f3eb5835208c6cdd2d493eda511\transformed\jetified-mapbox-android-gestures-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\99d579add3f9fd6fe77868a192125a71\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\99d579add3f9fd6fe77868a192125a71\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\b05fcf0f6b0fc21fffed2cda2fb6f215\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\b05fcf0f6b0fc21fffed2cda2fb6f215\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\86808e134507e15e9d79206184913f8b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\86808e134507e15e9d79206184913f8b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d8209ac831e6b22e460fd260ebb7d1bf\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d8209ac831e6b22e460fd260ebb7d1bf\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\75799f7dc1e6a4997cf50d7388f1985b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\zygaPG\.gradle\caches\transforms-3\75799f7dc1e6a4997cf50d7388f1985b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\c8996eb6ce8efabee1883fe1486006c9\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
@@ -113,26 +259,46 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\zygaPG\.gradle\caches\transforms-3\010887bb3359843376c02ecf4bf2ef43\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\zygaPG\.gradle\caches\transforms-3\010887bb3359843376c02ecf4bf2ef43\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6707c561045b071954f9f1d8398a2530\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6707c561045b071954f9f1d8398a2530\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.common:logger:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fdccb0087073823438e09676baa89a33\transformed\jetified-logger-0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:logger:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fdccb0087073823438e09676baa89a33\transformed\jetified-logger-0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:loader:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\44390ae06fdd461096f816ca95140c52\transformed\jetified-loader-0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:loader:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\44390ae06fdd461096f816ca95140c52\transformed\jetified-loader-0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.base:common:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\345151cf47dc4dbde42bf7edf3f74f5e\transformed\jetified-common-0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.base:common:0.11.0] C:\Users\zygaPG\.gradle\caches\transforms-3\345151cf47dc4dbde42bf7edf3f74f5e\transformed\jetified-common-0.11.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\53f114d110e356c36b5f50ab357f361f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\53f114d110e356c36b5f50ab357f361f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fee79d0d8ef3af5dbc14ef6d22d028cf\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\fee79d0d8ef3af5dbc14ef6d22d028cf\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\08235bf0a8760a790ea7b8b4eab82236\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\08235bf0a8760a790ea7b8b4eab82236\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\ee01e2b20f52029a052c42ac95f9e8b2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\ee01e2b20f52029a052c42ac95f9e8b2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\de4e1f54747892e0930cd2e3ecf5513e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\de4e1f54747892e0930cd2e3ecf5513e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\ee01e2b20f52029a052c42ac95f9e8b2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\ee01e2b20f52029a052c42ac95f9e8b2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\08235bf0a8760a790ea7b8b4eab82236\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\08235bf0a8760a790ea7b8b4eab82236\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\a2bd407c8cd5bfb977ceded389a17806\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\a2bd407c8cd5bfb977ceded389a17806\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6dde453803d512b3f23cc981e264e9e0\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6dde453803d512b3f23cc981e264e9e0\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6707c561045b071954f9f1d8398a2530\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\6707c561045b071954f9f1d8398a2530\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [org.chromium.net:cronet-api:119.6045.31] C:\Users\zygaPG\.gradle\caches\transforms-3\2f750e22eb21237dc048c67624f2d545\transformed\jetified-cronet-api-119.6045.31\AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-api:119.6045.31] C:\Users\zygaPG\.gradle\caches\transforms-3\2f750e22eb21237dc048c67624f2d545\transformed\jetified-cronet-api-119.6045.31\AndroidManifest.xml:18:6-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:56
+	android:enabled
+		ADDED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-35
+	android:exported
+		ADDED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-53
+	android:name
+		ADDED from [:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-77
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
 	android:required
@@ -145,6 +311,106 @@ ADDED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transfo
 		ADDED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
 	android:name
 		ADDED from [androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+uses-feature#0x00030000
+ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:8:5-10:35
+	android:glEsVersion
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:9:9-41
+	android:required
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:10:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:12:9-45
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:16:5-79
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:9:5-79
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:9:5-79
+MERGED from [org.chromium.net:cronet-api:119.6045.31] C:\Users\zygaPG\.gradle\caches\transforms-3\2f750e22eb21237dc048c67624f2d545\transformed\jetified-cronet-api-119.6045.31\AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-api:119.6045.31] C:\Users\zygaPG\.gradle\caches\transforms-3\2f750e22eb21237dc048c67624f2d545\transformed\jetified-cronet-api-119.6045.31\AndroidManifest.xml:20:6-79
+	android:name
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:17:22-73
+profileable
+ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:20:9-45
+	android:shell
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:20:22-42
+provider#androidx.startup.InitializationProvider
+ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:22:9-30:20
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:12:9-22:20
+MERGED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:12:9-22:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\53f114d110e356c36b5f50ab357f361f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\53f114d110e356c36b5f50ab357f361f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:26:13-31
+	android:authorities
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:24:13-68
+	android:exported
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:23:13-67
+meta-data#com.mapbox.maps.loader.MapboxMapsInitializer
+ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:27:13-29:52
+	android:value
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:29:17-49
+	android:name
+		ADDED from [com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:28:17-76
+meta-data#com.mapbox.common.MapboxSDKCommonInitializer
+ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:19:13-21:52
+	android:value
+		ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:21:17-49
+	android:name
+		ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:20:17-76
+receiver#com.mapbox.common.location.LocationUpdatesReceiver
+ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:24:9-31:20
+	android:enabled
+		ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:25:13-78
+intent-filter#action:name:com.mapbox.common.location.LocationUpdatesReceiver.ACTION_PROCESS_LOCATION_UPDATES
+ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:28:13-30:29
+action#com.mapbox.common.location.LocationUpdatesReceiver.ACTION_PROCESS_LOCATION_UPDATES
+ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:29:17-125
+	android:name
+		ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:29:25-122
+service#com.mapbox.common.LifecycleService
+ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:34:13-62
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
@@ -165,20 +431,6 @@ uses-permission#com.example.polgon_and_table.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMI
 ADDED from [androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\53f114d110e356c36b5f50ab357f361f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zygaPG\.gradle\caches\transforms-3\53f114d110e356c36b5f50ab357f361f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
-	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
 	android:value

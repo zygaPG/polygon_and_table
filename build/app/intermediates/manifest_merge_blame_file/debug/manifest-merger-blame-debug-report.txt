@@ -15,152 +15,254 @@
 15    <uses-permission android:name="android.permission.INTERNET" />
 15-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml:6:5-66
 15-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\debug\AndroidManifest.xml:6:22-64
-16    <!--
-17     Required to query activities that can process text, see:
-18         https://developer.android.com/training/package-visibility and
-19         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
-20
-21         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
-22    -->
-23    <queries>
-23-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:39:5-44:15
-24        <intent>
-24-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:40:9-43:18
-25            <action android:name="android.intent.action.PROCESS_TEXT" />
-25-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:41:13-72
-25-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:41:21-70
-26
-27            <data android:mimeType="text/plain" />
-27-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:42:13-50
-27-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:42:19-48
-28        </intent>
-29    </queries>
-30
-31    <permission
-31-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
-32        android:name="com.example.polgon_and_table.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-32-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
-33        android:protectionLevel="signature" />
-33-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
-34
-35    <uses-permission android:name="com.example.polgon_and_table.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-35-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
-35-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
-36
-37    <application
-38        android:name="android.app.Application"
-39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-39-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
-40        android:debuggable="true"
-41        android:extractNativeLibs="true"
-42        android:icon="@mipmap/ic_launcher"
-43        android:label="polgon_and_table" >
-44        <activity
-45            android:name="com.example.polgon_and_table.MainActivity"
-46            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-47            android:exported="true"
-48            android:hardwareAccelerated="true"
-49            android:launchMode="singleTop"
-50            android:taskAffinity=""
-51            android:theme="@style/LaunchTheme"
-52            android:windowSoftInputMode="adjustResize" >
-53
-54            <!--
-55                 Specifies an Android theme to apply to this Activity as soon as
-56                 the Android process has started. This theme is visible to the user
-57                 while the Flutter UI initializes. After that, this theme continues
-58                 to determine the Window background behind the Flutter UI.
-59            -->
-60            <meta-data
-61                android:name="io.flutter.embedding.android.NormalTheme"
-62                android:resource="@style/NormalTheme" />
-63
-64            <intent-filter>
-65                <action android:name="android.intent.action.MAIN" />
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:2:5-79
+16-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:2:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:3:5-81
+17-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:3:22-78
+18    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+18-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:4:5-85
+18-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:4:22-82
+19    <!--
+20 Required to query activities that can process text, see:
+21         https://developer.android.com/training/package-visibility and
+22         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+23
+24         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+25    -->
+26    <queries>
+26-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:42:5-47:15
+27        <intent>
+27-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:43:9-46:18
+28            <action android:name="android.intent.action.PROCESS_TEXT" />
+28-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:44:13-72
+28-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:44:21-70
+29
+30            <data android:mimeType="text/plain" />
+30-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:45:13-50
+30-->C:\Users\zygaPG\github_repositories\polgon_and_table\android\app\src\main\AndroidManifest.xml:45:19-48
+31        </intent>
+32    </queries>
+33
+34    <uses-feature
+34-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:8:5-10:35
+35        android:glEsVersion="0x00030000"
+35-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:9:9-41
+36        android:required="true" />
+36-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:10:9-32
+37    <uses-feature
+37-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:11:5-13:36
+38        android:name="android.hardware.wifi"
+38-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:12:9-45
+39        android:required="false" />
+39-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:13:9-33
+40
+41    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+41-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:16:5-79
+41-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:16:22-76
+42    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+42-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:17:5-76
+42-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:17:22-73
+43
+44    <permission
+44-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+45        android:name="com.example.polgon_and_table.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+45-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+46        android:protectionLevel="signature" />
+46-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+47
+48    <uses-permission android:name="com.example.polgon_and_table.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+48-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+48-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+49
+50    <application
+51        android:name="android.app.Application"
+52        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+52-->[androidx.core:core:1.13.1] C:\Users\zygaPG\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+53        android:debuggable="true"
+54        android:extractNativeLibs="true"
+55        android:icon="@mipmap/ic_launcher"
+56        android:label="polgon_and_table" >
+57        <activity
+58            android:name="com.example.polgon_and_table.MainActivity"
+59            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+60            android:exported="true"
+61            android:hardwareAccelerated="true"
+62            android:launchMode="singleTop"
+63            android:taskAffinity=""
+64            android:theme="@style/LaunchTheme"
+65            android:windowSoftInputMode="adjustResize" >
 66
-67                <category android:name="android.intent.category.LAUNCHER" />
-68            </intent-filter>
-69        </activity>
-70        <!--
-71             Don't delete the meta-data below.
-72             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
-73        -->
-74        <meta-data
-75            android:name="flutterEmbedding"
-76            android:value="2" />
-77
-78        <uses-library
-78-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
-79            android:name="androidx.window.extensions"
-79-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
-80            android:required="false" />
-80-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
-81        <uses-library
-81-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
-82            android:name="androidx.window.sidecar"
-82-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
-83            android:required="false" />
-83-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
-84
-85        <provider
-85-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
-86            android:name="androidx.startup.InitializationProvider"
-86-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
-87            android:authorities="com.example.polgon_and_table.androidx-startup"
-87-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
-88            android:exported="false" >
-88-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
-89            <meta-data
-89-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
-90                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-90-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
-91                android:value="androidx.startup" />
-91-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
-92            <meta-data
-92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
-93                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
-94                android:value="androidx.startup" />
-94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
-95        </provider>
+67            <!--
+68                 Specifies an Android theme to apply to this Activity as soon as
+69                 the Android process has started. This theme is visible to the user
+70                 while the Flutter UI initializes. After that, this theme continues
+71                 to determine the Window background behind the Flutter UI.
+72            -->
+73            <meta-data
+74                android:name="io.flutter.embedding.android.NormalTheme"
+75                android:resource="@style/NormalTheme" />
+76
+77            <intent-filter>
+78                <action android:name="android.intent.action.MAIN" />
+79
+80                <category android:name="android.intent.category.LAUNCHER" />
+81            </intent-filter>
+82        </activity>
+83        <!--
+84             Don't delete the meta-data below.
+85             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+86        -->
+87        <meta-data
+88            android:name="flutterEmbedding"
+89            android:value="2" />
+90
+91        <service
+91-->[:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:56
+92            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+92-->[:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-77
+93            android:enabled="true"
+93-->[:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-35
+94            android:exported="false"
+94-->[:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+95            android:foregroundServiceType="location" />
+95-->[:geolocator_android] C:\Users\zygaPG\github_repositories\polgon_and_table\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-53
 96
-97        <receiver
-97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
-98            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
-99            android:directBootAware="false"
-99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
-100            android:enabled="true"
-100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
-101            android:exported="true"
-101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
-102            android:permission="android.permission.DUMP" >
-102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
-103            <intent-filter>
-103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
-104                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
-104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
-105            </intent-filter>
-106            <intent-filter>
-106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
-107                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
-107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
-108            </intent-filter>
-109            <intent-filter>
-109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
-110                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
-110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
-111            </intent-filter>
-112            <intent-filter>
-112-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
-113                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
-113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
-114            </intent-filter>
-115        </receiver>
-116    </application>
-117
-118</manifest>
+97        <uses-library
+97-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+98            android:name="androidx.window.extensions"
+98-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+99            android:required="false" />
+99-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+100        <uses-library
+100-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+101            android:name="androidx.window.sidecar"
+101-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+102            android:required="false" />
+102-->[androidx.window:window:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+103
+104        <profileable android:shell="true" />
+104-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:20:9-45
+104-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:20:22-42
+105
+106        <provider
+106-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:22:9-30:20
+107            android:name="androidx.startup.InitializationProvider"
+107-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:23:13-67
+108            android:authorities="com.example.polgon_and_table.androidx-startup"
+108-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:24:13-68
+109            android:exported="false" >
+109-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:25:13-37
+110            <meta-data
+110-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:27:13-29:52
+111                android:name="com.mapbox.maps.loader.MapboxMapsInitializer"
+111-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:28:17-76
+112                android:value="androidx.startup" />
+112-->[com.mapbox.maps:android-core:11.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bad74c2ebea6cd84b98e8efb46a7ca65\transformed\jetified-android-core-11.9.0\AndroidManifest.xml:29:17-49
+113            <!-- This entry makes MapboxSDKCommonInitializer discoverable. -->
+114            <meta-data
+114-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:19:13-21:52
+115                android:name="com.mapbox.common.MapboxSDKCommonInitializer"
+115-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:20:17-76
+116                android:value="androidx.startup" />
+116-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:21:17-49
+117            <meta-data
+117-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+118                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+118-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+119                android:value="androidx.startup" />
+119-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zygaPG\.gradle\caches\transforms-3\d3559f99e4813a171b5493c8f32a3eaf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+120            <meta-data
+120-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+121                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+121-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+122                android:value="androidx.startup" />
+122-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\zygaPG\.gradle\caches\transforms-3\5d9083683aa46ad6646ca7a884bd56df\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+123            <meta-data
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+124                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+125                android:value="androidx.startup" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+126        </provider>
+127
+128        <receiver
+128-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:24:9-31:20
+129            android:name="com.mapbox.common.location.LocationUpdatesReceiver"
+129-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:25:13-78
+130            android:enabled="true"
+130-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:26:13-35
+131            android:exported="false" >
+131-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:27:13-37
+132            <intent-filter>
+132-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:28:13-30:29
+133                <action android:name="com.mapbox.common.location.LocationUpdatesReceiver.ACTION_PROCESS_LOCATION_UPDATES" />
+133-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:29:17-125
+133-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:29:25-122
+134            </intent-filter>
+135        </receiver>
+136
+137        <service
+137-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:33:9-35:40
+138            android:name="com.mapbox.common.LifecycleService"
+138-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:34:13-62
+139            android:exported="false" />
+139-->[com.mapbox.common:common:24.9.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bd881cc806000ba8dbdf56011677768a\transformed\jetified-common-24.9.0\AndroidManifest.xml:35:13-37
+140
+141        <activity
+141-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+142            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+142-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+143            android:exported="false"
+143-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+144            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+144-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\zygaPG\.gradle\caches\transforms-3\0e2e515c445ae8a5e92ab6406cf1025e\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+145
+146        <meta-data
+146-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+147            android:name="com.google.android.gms.version"
+147-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+148            android:value="@integer/google_play_services_version" />
+148-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\zygaPG\.gradle\caches\transforms-3\bb4aceea626ef6ec2db1cf5b297099f2\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+149
+150        <receiver
+150-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+151            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+151-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+152            android:directBootAware="false"
+152-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+153            android:enabled="true"
+153-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+154            android:exported="true"
+154-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+155            android:permission="android.permission.DUMP" >
+155-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+156            <intent-filter>
+156-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+157                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+157-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+157-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+158            </intent-filter>
+159            <intent-filter>
+159-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+160                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+160-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+160-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+161            </intent-filter>
+162            <intent-filter>
+162-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+163                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+163-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+163-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+164            </intent-filter>
+165            <intent-filter>
+165-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+166                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+166-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+166-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\zygaPG\.gradle\caches\transforms-3\1e1e8719823df11c58e964840aa823f6\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+167            </intent-filter>
+168        </receiver>
+169    </application>
+170
+171</manifest>

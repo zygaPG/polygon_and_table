@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.polgon_and_table.app-mergeDebugResources-42:/values-no/values-no.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zygaPG\\.gradle\\caches\\transforms-3\\13c666b995a846bcd9361faaf2fe05a8\\transformed\\jetified-maps-logo-11.9.0\\res\\values-no\\values-no.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "192",
+                        "endOffsets": "243"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "1301",
+                        "endColumns": "192",
+                        "endOffsets": "1489"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zygaPG\\.gradle\\caches\\transforms-3\\9486d3daa5192211cb820ac930a9c20c\\transformed\\jetified-maps-compass-11.9.0\\res\\values-no\\values-no.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "127",
+                        "endOffsets": "178"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "727",
+                        "endColumns": "127",
+                        "endOffsets": "850"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zygaPG\\.gradle\\caches\\transforms-3\\a979d0c344afdc53cd1863e24f1c4292\\transformed\\jetified-android-11.9.0\\res\\values-no\\values-no.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,132,209",
+                        "endColumns": "76,76,69",
+                        "endOffsets": "127,204,274"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "855,932,1009",
+                        "endColumns": "76,76,69",
+                        "endOffsets": "927,1004,1074"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zygaPG\\.gradle\\caches\\transforms-3\\3d6884bdf9863c60920c4aff0ddbf4f0\\transformed\\jetified-maps-attribution-11.9.0\\res\\values-no\\values-no.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,180,335,413,492,562,646,727",
+                        "endColumns": "124,154,77,78,69,83,80,221",
+                        "endOffsets": "175,330,408,487,557,641,722,944"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,180,335,413,492,562,646,1079",
+                        "endColumns": "124,154,77,78,69,83,80,221",
+                        "endOffsets": "175,330,408,487,557,641,722,1296"
+                    }
+                }
+            ]
+        }
+    ]
+}
