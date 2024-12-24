@@ -244,23 +244,22 @@ class _TablePageState extends State<TablePage> {
   }
 
   void updateData(List<int> rowSet) {
-    // Tworzymy głęboką kopię oryginalnych danych
+    // new copy of data
     List<List<double>> dataCopy =
         _data.map((row) => List<double>.from(row)).toList();
 
-    // Tworzymy nową listę z przekopiowaną strukturą
+    // new list with new data
     List<List<double>> newData = List.generate(
         _data.length, (i) => List<double>.filled(_data[i].length, 0.0));
 
-    // Przestawiamy kolumny według nowego układu
+    // swap columns
     for (int row = 0; row < _data.length; row++) {
       for (int col = 0; col < _data[row].length; col++) {
-        // Przenosimy wartości na nowe pozycje
+        // set correct to new positon
         newData[row][col] = dataCopy[row][rowSet[col]];
       }
     }
 
-    // Wymuszamy pełne odświeżenie stanu
     setState(() {
       _data = List.from(newData.map((row) => List<double>.from(row)));
     });
