@@ -20,11 +20,3 @@ https://github.com/user-attachments/assets/c792f134-ad78-4d56-a6f0-5be1fd1f6032
 
 ---
 
-## 📝 Notes
-
-- This project demonstrates integration between Flutter and MapBox API.
-- The table component supports both horizontal and vertical scrolling for better data navigation.
-- For production deployment, ensure proper configuration of MapBox API credentials.
-- The project was developed and tested on multiple platforms for cross-platform compatibility.
-
----
